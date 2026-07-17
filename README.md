@@ -117,10 +117,10 @@ IUB Assist solves this with a 24/7 AI support agent.
 ```text
 IUB-Assist/
 │
-├── 📓 Conver_Impl.ipynb           # Main chatbot — RAG pipeline, conversational
+├── 📓 Conversational_Imp.ipynb           # Main chatbot — RAG pipeline, conversational
 │                                   # memory, API key rotation, Gradio UI launch
 │
-├── 📓 Rag_Pipline_1.ipynb         # Core RAG pipeline — ChromaDB building,
+├── 📓 Rag_Pipline.ipynb         # Core RAG pipeline — ChromaDB building,
 │                                   # embedding generation, retrieval setup
 │
 ├── 📓 DataCollection1.ipynb       # Data collection — web scraping of IUB
